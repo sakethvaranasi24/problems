@@ -64,9 +64,9 @@ Tweet 2 has length = 33. It is an invalid tweet.
 | --- | --- |
 | Status | Accepted |
 | Language | MySQL |
-| Runtime | 752 ms (21.28%) |
+| Runtime | 646 ms (55.65%) |
 | Memory | 0B (100.00%) |
-| Submission ID | 2107564361 |
+| Submission ID | 2118228741 |
 
 ---
 
