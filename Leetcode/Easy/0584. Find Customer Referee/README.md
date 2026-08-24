@@ -73,9 +73,9 @@ Customer table:
 | --- | --- |
 | Status | Accepted |
 | Language | MySQL |
-| Runtime | 552 ms (39.42%) |
+| Runtime | 538 ms (46.87%) |
 | Memory | 0B (100.00%) |
-| Submission ID | 2116175354 |
+| Submission ID | 2118216506 |
 
 ---
 
