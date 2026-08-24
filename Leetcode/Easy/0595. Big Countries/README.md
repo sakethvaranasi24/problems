@@ -74,9 +74,9 @@ World table:
 | --- | --- |
 | Status | Accepted |
 | Language | MySQL |
-| Runtime | 298 ms (69.36%) |
+| Runtime | 284 ms (89.37%) |
 | Memory | 0B (100.00%) |
-| Submission ID | 2105504892 |
+| Submission ID | 2118220135 |
 
 ---
 
