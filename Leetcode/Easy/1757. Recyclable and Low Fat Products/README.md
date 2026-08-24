@@ -66,9 +66,9 @@ Products table:
 | --- | --- |
 | Status | Accepted |
 | Language | MySQL |
-| Runtime | 609 ms (34.99%) |
+| Runtime | 506 ms (92.48%) |
 | Memory | 0B (100.00%) |
-| Submission ID | 2105497043 |
+| Submission ID | 2118216194 |
 
 ---
 
