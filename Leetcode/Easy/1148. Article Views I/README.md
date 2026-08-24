@@ -69,9 +69,9 @@ Views table:
 | --- | --- |
 | Status | Accepted |
 | Language | MySQL |
-| Runtime | 505 ms (21.48%) |
+| Runtime | 448 ms (57.94%) |
 | Memory | 0B (100.00%) |
-| Submission ID | 2105511677 |
+| Submission ID | 2118222586 |
 
 ---
 
