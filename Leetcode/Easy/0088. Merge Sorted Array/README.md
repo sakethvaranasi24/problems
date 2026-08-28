@@ -69,8 +69,8 @@ Note that because m = 0, there are no elements in nums1. The 0 is only there to 
 | Status | Accepted |
 | Language | Python3 |
 | Runtime | 0 ms (100.00%) |
-| Memory | 19.3 MB (77.66%) |
-| Submission ID | 2123121293 |
+| Memory | 19.1 MB (95.82%) |
+| Submission ID | 2123123502 |
 
 ---
 
