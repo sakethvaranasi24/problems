@@ -1,0 +1,13 @@
+/*
+Enter your query here.
+*/
+
+select 
+    round(min(lat_n),4) as smallest_north_lat
+from    
+    station
+where 
+    lat_n > 38.7780
+order by 
+    lat_n asc
+limit 1;
