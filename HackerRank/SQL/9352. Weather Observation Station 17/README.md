@@ -24,7 +24,7 @@ Query the *Western Longitude* (*LONG\_W*)where the smallest *Northern Latitude* 
 | Language | mysql |
 | Score | 15.0 |
 | Testcases | 1/1 passed |
-| Submission ID | 481492786 |
+| Submission ID | 481492881 |
 
 ---
 
