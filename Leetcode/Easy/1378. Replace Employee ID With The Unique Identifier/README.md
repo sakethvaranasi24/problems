@@ -95,9 +95,9 @@ The unique ID of Jonathan is 1.
 | --- | --- |
 | Status | Accepted |
 | Language | MySQL |
-| Runtime | 1245 ms (67.11%) |
+| Runtime | 1142 ms (91.17%) |
 | Memory | 0B (100.00%) |
-| Submission ID | 2110366854 |
+| Submission ID | 2124500134 |
 
 ---
 
