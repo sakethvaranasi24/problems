@@ -95,9 +95,9 @@ From sale_id = 7, we can conclude that Apple was sold for 9000 in the year 2011.
 | --- | --- |
 | Status | Accepted |
 | Language | MySQL |
-| Runtime | 1419 ms (37.15%) |
+| Runtime | 1246 ms (78.43%) |
 | Memory | 0B (100.00%) |
-| Submission ID | 2111231100 |
+| Submission ID | 2124506184 |
 
 ---
 
