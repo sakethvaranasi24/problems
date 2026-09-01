@@ -68,9 +68,9 @@ In 2015-01-04, the temperature was higher than the previous day (20 -&gt; 30).
 | --- | --- |
 | Status | Accepted |
 | Language | MySQL |
-| Runtime | 677 ms (10.75%) |
+| Runtime | 466 ms (78.45%) |
 | Memory | 0B (100.00%) |
-| Submission ID | 2111235320 |
+| Submission ID | 2127527823 |
 
 ---
 
