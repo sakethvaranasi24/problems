@@ -36,7 +36,7 @@ Complete the $simpleArraySum$ function with the following parameter(s):
 | Language | python3 |
 | Score | 10.0 |
 | Testcases | 3/3 passed |
-| Submission ID | 480601515 |
+| Submission ID | 481865812 |
 
 ---
 
