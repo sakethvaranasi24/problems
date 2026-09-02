@@ -40,7 +40,7 @@ Returns
 | Language | python3 |
 | Score | 1.0 |
 | Testcases | 2/2 passed |
-| Submission ID | 480601496 |
+| Submission ID | 481865739 |
 
 ---
 
