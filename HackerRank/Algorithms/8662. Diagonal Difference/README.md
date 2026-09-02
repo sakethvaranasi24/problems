@@ -45,7 +45,7 @@ Complete the $\textit{diagonalDifference}$ function with the following parameter
 | Language | python3 |
 | Score | 10.0 |
 | Testcases | 11/11 passed |
-| Submission ID | 480843258 |
+| Submission ID | 481866753 |
 
 ---
 
