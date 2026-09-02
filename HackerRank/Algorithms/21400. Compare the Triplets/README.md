@@ -61,7 +61,7 @@ Complete the function <em>compareTriplets</em> with the following parameter(s):
 | Language | python3 |
 | Score | 10.0 |
 | Testcases | 8/8 passed |
-| Submission ID | 480842926 |
+| Submission ID | 481866012 |
 
 ---
 
