@@ -49,10 +49,10 @@ countApplesAndOranges has the following parameter(s):
 | Item | Value |
 | --- | --- |
 | Status | Accepted |
-| Language | pypy3 |
+| Language | python3 |
 | Score | 10.0 |
 | Testcases | 12/12 passed |
-| Submission ID | 481191757 |
+| Submission ID | 481980236 |
 
 ---
 
