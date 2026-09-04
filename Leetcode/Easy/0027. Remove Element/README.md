@@ -79,8 +79,8 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 | Status | Accepted |
 | Language | Python3 |
 | Runtime | 0 ms (100.00%) |
-| Memory | 19.3 MB (19.58%) |
-| Submission ID | 2119829862 |
+| Memory | 19.4 MB (19.13%) |
+| Submission ID | 2130288752 |
 
 ---
 
