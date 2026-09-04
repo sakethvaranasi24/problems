@@ -40,7 +40,7 @@ Complete the function $birthdayCakeCandles$ with the following parameter(s):
 | Language | python3 |
 | Score | 10.0 |
 | Testcases | 9/9 passed |
-| Submission ID | 480918384 |
+| Submission ID | 481976872 |
 
 ---
 
