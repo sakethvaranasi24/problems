@@ -43,7 +43,7 @@ Print two space-separated integers on one line: the minimum sum and the maximum 
 | Language | python3 |
 | Score | 10.0 |
 | Testcases | 15/15 passed |
-| Submission ID | 480917753 |
+| Submission ID | 481976706 |
 
 ---
 
